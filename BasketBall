@@ -170,8 +170,8 @@ public class BasketBall
   
   ////////////////////END SETUP/////////////////////
   
-   @Override
-  public void advance(double sec) {
+   //@Override
+  public void main() {
  checkScore();  
 
 
